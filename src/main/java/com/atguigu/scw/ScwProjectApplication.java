@@ -24,7 +24,7 @@ public class ScwProjectApplication {
 
 	public void testmaster() {}
 
-	public void testdev() {
+	public void testdev(String a) {
 
 		
 	}
