@@ -21,7 +21,11 @@ public class ScwProjectApplication {
 		
 	}
 	
-	public void testmaster() {
+
+	public void testmaster() {}
+
+	public void testdev() {
+
 		
 	}
 }
