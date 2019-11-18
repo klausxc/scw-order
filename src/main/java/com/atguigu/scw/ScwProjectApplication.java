@@ -13,5 +13,7 @@ public class ScwProjectApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ScwProjectApplication.class, args);
 	}
+	public void name() {
+	}
 
 }
