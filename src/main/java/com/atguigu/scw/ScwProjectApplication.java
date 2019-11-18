@@ -20,4 +20,8 @@ public class ScwProjectApplication {
 	public void test3() {
 		
 	}
+	
+	public void testdev() {
+		
+	}
 }
