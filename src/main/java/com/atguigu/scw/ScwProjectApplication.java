@@ -16,10 +16,8 @@ public class ScwProjectApplication {
 	public void name() {
 	
 	}
-	public void test() {
 	
-	}
-	public void test2() {
+	public void test3() {
 		
 	}
 }
