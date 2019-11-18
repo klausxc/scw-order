@@ -15,5 +15,6 @@ public class ScwProjectApplication {
 	}
 	public void name() {
 	}
-
+	public void test2() {
+	}
 }
